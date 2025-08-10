@@ -1,0 +1,262 @@
+[
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "nappies" },
+    {
+        "ageGroup": "Toddler",
+        "category": "action",
+        "wordOrPhrase": "stacking blocks"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "milestone",
+        "wordOrPhrase": "pretend play"
+    },
+    { "ageGroup": "Baby", "category": "milestone", "wordOrPhrase": "crawling" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "sippy cup" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "drawing"
+    },
+    { "ageGroup": "Baby", "category": "action", "wordOrPhrase": "tummy time" },
+    {
+        "ageGroup": "Toddler",
+        "category": "milestone",
+        "wordOrPhrase": "potty training"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "riding a tricycle"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "interaction",
+        "wordOrPhrase": "Are you hungry?"
+    },
+    {
+        "ageGroup": "Toddler",
+        "category": "instruction",
+        "wordOrPhrase": "Hold my hand"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "instruction",
+        "wordOrPhrase": "Let's read a story"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "baby wipes" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "plate" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "lunchbox"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "action",
+        "wordOrPhrase": "clapping hands"
+    },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "running" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "milestone",
+        "wordOrPhrase": "learning ABCs"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "dummies" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "spoon" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "backpack"
+    },
+    { "ageGroup": "Baby", "category": "action", "wordOrPhrase": "peek-a-boo" },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "climbing" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "counting"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "pacifier" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "pajamas" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "instruction",
+        "wordOrPhrase": "What color is this?"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "crib" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "potty" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "instruction",
+        "wordOrPhrase": "Share your toys with your friend"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "stroller" },
+    {
+        "ageGroup": "Toddler",
+        "category": "instruction",
+        "wordOrPhrase": "Let's put on your shoes"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "instruction",
+        "wordOrPhrase": "Use your words, please"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "formula" },
+    {
+        "ageGroup": "Toddler",
+        "category": "instruction",
+        "wordOrPhrase": "Time to clean up your toys"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "puzzles"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "bib" },
+    {
+        "ageGroup": "Toddler",
+        "category": "instruction",
+        "wordOrPhrase": "Can you say 'thank you'?"
+    },
+    { "ageGroup": "Preschooler", "category": "item", "wordOrPhrase": "books" },
+    { "ageGroup": "Baby", "category": "milestone", "wordOrPhrase": "babbling" },
+    {
+        "ageGroup": "Toddler",
+        "category": "milestone",
+        "wordOrPhrase": "first steps"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "crayons"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "interaction",
+        "wordOrPhrase": "Let's change your nappy"
+    },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "jumping" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "singing"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "interaction",
+        "wordOrPhrase": "Time for a nap"
+    },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "dancing" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "hopping"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "interaction",
+        "wordOrPhrase": "Look at the light!"
+    },
+    {
+        "ageGroup": "Toddler",
+        "category": "action",
+        "wordOrPhrase": "throwing a ball"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "skipping"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "rattle" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "bubbles" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "play-doh"
+    },
+    { "ageGroup": "Baby", "category": "action", "wordOrPhrase": "smiling" },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "waving" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "writing name"
+    },
+    {
+        "ageGroup": "Baby",
+        "category": "milestone",
+        "wordOrPhrase": "rolling over"
+    },
+    {
+        "ageGroup": "Toddler",
+        "category": "milestone",
+        "wordOrPhrase": "talking"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "milestone",
+        "wordOrPhrase": "tying shoes"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "mobile" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "slide" },
+    { "ageGroup": "Preschooler", "category": "item", "wordOrPhrase": "swing" },
+    { "ageGroup": "Baby", "category": "action", "wordOrPhrase": "giggling" },
+    {
+        "ageGroup": "Toddler",
+        "category": "action",
+        "wordOrPhrase": "kicking a ball"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "catching a ball"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "high chair" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "sandbox" },
+    { "ageGroup": "Preschooler", "category": "item", "wordOrPhrase": "seesaw" },
+    {
+        "ageGroup": "Baby",
+        "category": "milestone",
+        "wordOrPhrase": "sitting up"
+    },
+    {
+        "ageGroup": "Toddler",
+        "category": "milestone",
+        "wordOrPhrase": "drinking from a cup"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "milestone",
+        "wordOrPhrase": "making friends"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "teether" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "wagon" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "item",
+        "wordOrPhrase": "scooter"
+    },
+    { "ageGroup": "Baby", "category": "action", "wordOrPhrase": "reaching" },
+    { "ageGroup": "Toddler", "category": "action", "wordOrPhrase": "pointing" },
+    {
+        "ageGroup": "Preschooler",
+        "category": "action",
+        "wordOrPhrase": "coloring"
+    },
+    { "ageGroup": "Baby", "category": "item", "wordOrPhrase": "blanket" },
+    { "ageGroup": "Toddler", "category": "item", "wordOrPhrase": "teddy bear" },
+    { "ageGroup": "Preschooler", "category": "item", "wordOrPhrase": "doll" },
+    {
+        "ageGroup": "Baby",
+        "category": "milestone",
+        "wordOrPhrase": "first tooth"
+    },
+    {
+        "ageGroup": "Toddler",
+        "category": "milestone",
+        "wordOrPhrase": "saying 'no'"
+    },
+    {
+        "ageGroup": "Preschooler",
+        "category": "milestone",
+        "wordOrPhrase": "telling stories"
+    }
+]
