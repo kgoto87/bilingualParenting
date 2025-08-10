@@ -2,13 +2,52 @@
 
 This document outlines the process for generating content for the Bilingual Parenting project.
 
-## Project Concept
+## Content Generation Process
 
-The goal of this project is to create a collection of CSV files containing English words and phrases for parents. These files are designed to help parents incorporate English into their daily interactions with their children, with content tailored to specific age groups from 0 to 10 years old.
+The content generation is a two-step process:
+
+1.  Create a JSON file containing the themes for the year.
+2.  Generate a CSV file for the year based on the themes in the JSON file.
+
+---
+
+## Step 1: Generate a JSON file of themes
+
+The first step is to create a JSON file that lists the themes for a given year. This file will serve as the source for the CSV file generation.
+
+### JSON File Naming Convention
+
+The JSON file should be named using the following format: `themes-{year}.json`.
+
+For example:
+
+-   `data/themes-2025.json`
+
+### JSON File Structure
+
+The JSON file should be an array of objects, where each object represents a theme and has the following structure:
+
+```json
+{
+    "ageGroup": "Toddler",
+    "category": "item",
+    "wordOrPhrase": "milk"
+}
+```
+
+-   `ageGroup`: The target age group (e.g., "Baby", "Toddler", "Preschooler").
+-   `category`: The category of the theme (e.g., "item", "action", "milestone").
+-   `wordOrPhrase`: The specific word or phrase for the theme.
+
+---
+
+## Step 2: Generate the CSV file from the JSON file
+
+Using the generated `themes-{year}.json` file, create a CSV file with the content for the year.
 
 ## Directory Structure
 
-A single `data` directory will be used to store all CSV files.
+A single `data` directory will be used to store all CSV and JSON files.
 
 ## File Naming Convention
 
@@ -61,7 +100,7 @@ The total content must be less than 140 characters to be compatible with X (form
 
 ### Content Themes for "text" Column
 
-The content for the `text` column should be relevant to the specified age group and can include the following themes, categorized by developmental stage:
+The content for the `text` column should be relevant to the specified age group and can include the following themes, categorized by developmental stage. To ensure a variety of content, themes should not be duplicated within the same CSV file or the same year.
 
 #### Babies (0-1 year)
 
